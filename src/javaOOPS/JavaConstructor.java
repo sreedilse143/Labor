@@ -1,0 +1,17 @@
+package javaOOPS;
+
+public class JavaConstructor {
+
+	public JavaConstructor() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	
+	
+	
+}

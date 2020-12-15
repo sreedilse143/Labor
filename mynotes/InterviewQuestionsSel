@@ -1,0 +1,58 @@
+
+
+xPath - https://www.guru99.com/xpath-selenium.html
+Absolute XPath vs Relative XPath.
+difference between ‘/’ and ‘//’ ? 
+different methods
+different axes
+check whether a text is underlined or not
+
+
+Elements
+Types of Locators - best/least preferred
+id  - where best/least preferred
+css - where best/least preferred
+drop down select
+drop down without select
+difference between type keys and type commands 
+difference between Click vs submit 
+retrieve all links in webpage
+retrieve all Edit in webpage
+retrieve all Button in webpage
+find text in table and set value/click button
+broken links
+to get the value present in text box when none of the locators are available?
+
+Selenium
+limitations
+four parameter you have to pass in Selenium
+default port number
+Selenium Commands - Selenese = Actions vs Accessors vs Assertions = Assertions - Assert vs Verify vs WaitFor
+implicit vs explicit vs waitfor vs fluentwait vs pageload
+Types of Alerts
+Actions class vs Action class - methods
+handle multiple windows
+Frames
+
+Common Commands - open
+technical challenges with Selenium - BitMap/Barcode/OTP
+difference between setSpeed() and sleep() methods?
+
+browsers
+Headless browsers
+https://stqatools.com/selenium-htmlunitdriver/
+login into any site if it’s showing any authentication popup for password and username?(http://username:password@url)
+What is heightened privileges browsers?
+What is same origin policy? How you can avoid same origin policy?
+difference between close() and quit()?
+name of Headless browser - HtmlUnitDriver
+handle SSL certificate 
+Navigate vs get
+desired capabilty
+driver.close() and driver.quit()?
+Cross browsers
+
+IE Settings
+Enhanced protected mode to Run third party browser
+Enable DOM Storage
+IR driver change to 64-bit --> Enable 64 bit process for Enhanced protected mode

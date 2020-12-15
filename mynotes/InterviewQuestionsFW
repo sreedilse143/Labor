@@ -1,0 +1,75 @@
+Execution
+run 3 cases parallel and next three cases in series 
+
+Framework
+Folder structure
+implement Page Factory
+POM vs Page Factory
+
+Grid
+Parallel Testing
+
+JUNIT
+https://www.guru99.com/junit-annotations-api.html#6
+
+TestNG - https://www.guru99.com/all-about-testng-and-selenium.html
+Testng.xml
+Testng-failed.xml
+Listeners
+retryAnalyser
+groups
+soft asserttion
+TestNG Negative priorities ---> [@Test(priority=-2), @Test(priority=-1), @Test(priority=1), @Test(priority=2)]
+Verbose - TestNG - clear reporting 
+Run Failed test case
+Parallel Testing 
+https://www.guru99.com/testng-execute-multiple-test-suites.html
+run 200 tc , arrange in required order without manually changing place of the test case in XML.
+run same test case multiple times? ---> @Test(invocationCount = 10)
+run dependent test   @Test(dependsOnMethods = { "initEnvironmentTest" })
+
+
+cucumber
+
+jbehave
+
+Maven 
+Maven process
+how 2 Build project
+
+
+Jenkins
+CI/CD integration
+
+
+Database
+DBconnectivity
+
+Sql
+Find nth highest salary
+
+Files
+retrieve data from text file
+retrieve data from xl - poi , workbook factory, xssf, hssf,
+retrieve data from xml file
+retrieve data from json file
+
+win
+execute .batch
+execute .vbs
+execute .exe
+
+Robot
+Autoit
+seculi
+
+
+Write Gmail in POM, JUNIT, TESTNG
+
+API
+GET vs POST
+redirect vs forward method
+
+
+
+

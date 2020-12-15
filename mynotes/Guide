@@ -1,0 +1,55 @@
+---------------------------------------------------------------
+Language - Selenium - Java, C#, Python
+IDE - Ecliplse , Intellij
+Tools - Selenium + Maven, TestNG, Cucumber, RestAssured, Robut, Sikulii
+---------------------------------------------------------------
+
+Client Application - 
+Device - Lap, PC, Mobile, Tablet, ipod
+OS - Apple, Windows, Linux, Andriod, ios
+Web - Browser - IE, Firefox, safari, edge.....
+Skin - API, UI-Web, Mainframe, Files, Databases, Executable
+Techno - Java, Angular, python, .NET, PHP
+WebServices - .xml, .json
+---------------------------------------------------------------
+
+Eclipse Download
+Java
+Jdk
+Environment Variables setup in machine
+access modifiers
+variables
+data types
+Interface
+Inheritence
+Polymorphisam
+
+---------------------------------------------------------------
+Built-in Java packages are a part of Java API and it offers a variety of packages, list of java packages are –
+
+lang – Automatically imported and it contains language support classes.
+io – Contains classes for input and output operations.
+util – Contains utility classes for implementing data structures.
+applet – This package contains classes that create applets.
+awt – Contain classes that implement compounds for GUI.
+net – This package contains classes that support networking operations.
+
+
+----------------------------------------------------------------------------
+http://toolsqa.com/rest-assured/configure-eclipse-with-rest-assured/
+
+----------------------------------------------------------------------------
+https://www.tutorialspoint.com/java/lang/index.htm
+https://www.tutorialspoint.com/java8/index.htm
+----------------------------------------------------------------------------
+https://www.tutorialspoint.com/java/index.htm
+https://www.tutorialspoint.com/javaexamples/index.htm
+----------------------------------------------------------------------------
+
+https://data-flair.training/blogs/packages-in-java/
+
+contine 12/28/2018
+https://www.tutorialspoint.com/javaexamples/regular_occurance.htm
+
+https://stackoverflow.com/questions/3422262/how-to-take-screenshot-with-selenium-webdriver
+http://www.seleniumwebdriver.in/2015/06/selenium-webdriver-questions_21.html

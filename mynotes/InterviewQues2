@@ -1,0 +1,44 @@
+https://www.edureka.co/blog/interview-questions/java-interview-questions/
+
+
+array = adv/disadv 
+Replace vs ReplaceAll
+
+oops
+Association, Composition and Aggregation in Java
+https://www.geeksforgeeks.org/association-composition-aggregation-java/
+Static Block vs. Constructor
+multiple inheritance can be achieved by implementing interface
+diamond problem?
+nested classes
+Marker Interface - Contains no methods
+
+Class
+wrapper classes
+
+Interface vs Abstract class.
+InheritsFromInterface
+InteritsFromAbstractClass
+InteritsFromAbstractClassimplementsInterface
+MutipleInheritence
+
+polymorphism TYPES
+
+https://stackoverflow.com/questions/1321122/what-is-an-interface-in-java/1321126
+
+Collections
+List vs Set vs Map
+hashmap vs hashtable.
+Duplicate key in map ? --> throws Errors
+pass multiple values to a key value
+using map find the occurrence of all the characters
+
+Exception
+Types of Exception
+Error vs Exception
+catch without try
+finally ?
+Stale
+
+
+

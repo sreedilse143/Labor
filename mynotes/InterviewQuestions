@@ -1,0 +1,35 @@
+
+https://www.guru99.com/static-dynamic-testing.html
+
+
+Access modifiers scope
+Call static method in Non static & Non static method in static
+
+Final class cannot be extended
+main method without static - JVM cannot creaete object
+Finalize - garbage collector
+garbage collector in java
+Lock framework vs Thread synchronization in Java
+
+Final class? --> Can't Inherit
+Final Varaible? --> Can't Modify the value
+Parse
+
+String
+Mutable vs unMutable 
+stringbuffer vs string classes.
+
+Thread
+
+
+Find font size, color, type of text in webpage
+
+Date
+Validate given Date
+Add/sub days to date w.r.t location
+---------------------------------------------------------------------
+Java try, catch and finally blockss
+https://howtodoinjava.com/java/exception-handling/try-catch-finally/
+
+Java Multi-catch block
+https://www.javatpoint.com/multiple-catch-block-in-java
